@@ -21,5 +21,5 @@ this lets you move the mouse with your keyboard, with gravity included
 ## how to install:
   - make sure you have python 3.x.x in your device
   - install the modules keyboard, time, and pyautogui
-  - run funny-mouse.py as admin/root
+  - run funny-mouse.py (on linux you have to run as root)
   - ta-daaaa!!
