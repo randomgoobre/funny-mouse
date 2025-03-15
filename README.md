@@ -7,14 +7,14 @@ this lets you move the mouse with your keyboard, with gravity included
   [https://youtu.be/RJe2BO-InGY](https://youtu.be/RJe2BO-InGY)
 
 ## compatibility:
-  - linux works just fine
-  - i havent tested it on windows but it hopefully should work there
+  - linux and windows works
   - i have no clue about macOS
 
 ## controls:
   - use the 'WASD' keys to move your mouse
   - the 'q' key left clicks
   - the 'e' key right clicks
+  - 'z' to stop the script
   - (you can hold 'q' and 'e' to hold your click)
   - (please note that i suck at coding, so clicking might feel weird in some cases)
 
